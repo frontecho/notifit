@@ -1,0 +1,233 @@
+{
+    "zdbk": {
+        "nickName": "教务网（本科）",
+        "icon": "https://www.zju.edu.cn/_upload/article/images/c3/98/1fb1d281492eb477a098ef7a2901/6d8d432f-56ac-47eb-b22d-a23b103aed01.png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-01",
+        "siteName" : "zdbk"
+    },
+    "ugrs" : {
+        "nickName": "本科生院（新闻）",
+        "icon": "https://www.zju.edu.cn/_upload/article/images/c3/98/1fb1d281492eb477a098ef7a2901/6d8d432f-56ac-47eb-b22d-a23b103aed01.png",
+        "type": "page",
+        "earliestDateTime" : "2023-09-01",
+        "baseUrl": "https://ugrs.zju.edu.cn",
+        "urlTemplate" : "/28259/list{n}.htm",
+        "siteName" : "ugrs",
+        "newsModuleIdClass" : "#wp_news_w17",
+        "totalPagesIdClass" : ".all_pages"
+    },
+    "bksy": {
+        "nickName": "本科生院（通知）",
+        "icon": "https://www.zju.edu.cn/_upload/article/images/c3/98/1fb1d281492eb477a098ef7a2901/6d8d432f-56ac-47eb-b22d-a23b103aed01.png",
+        "type": "page",
+        "earliestDateTime" : "2024-01-01",
+        "baseUrl": "https://bksy.zju.edu.cn",
+        "urlTemplate" : "/28418/list{n}.htm",
+        "siteName" : "bksy",
+        "newsModuleIdClass" : "#wp_news_w24",
+        "totalPagesIdClass" : ".all_pages"
+    },
+    "youth": {
+        "nickName": "浙大素质拓展网",
+        "icon": "https://www.zju.edu.cn/_upload/article/images/c3/98/1fb1d281492eb477a098ef7a2901/6d8d432f-56ac-47eb-b22d-a23b103aed01.png",
+        "type": "page",
+        "earliestDateTime" : "all",
+        "baseUrl": "http://www.youth.zju.edu.cn",
+        "urlTemplate" : "/sztz/102?page={n}",
+        "siteName" : "youth",
+        "newsModuleIdClass" : "#arthd",
+        "totalPagesIdClass" : ".current-page"
+    },
+    "zhfw": {
+        "nickName": "综合服务网",
+        "icon": "https://www.zju.edu.cn/_upload/article/images/c3/98/1fb1d281492eb477a098ef7a2901/6d8d432f-56ac-47eb-b22d-a23b103aed01.png",
+        "type": "page",
+        "earliestDateTime" : "2024-01-01",
+        "baseUrl": "https://zhfw.zju.edu.cn",
+        "urlTemplate" : "/zhfw_jsgx/list{n}.htm",
+        "siteName" : "zhfw",
+        "newsModuleIdClass" : "#wp_news_w6",
+        "totalPagesIdClass" : ".all_pages"
+    },
+    "libweb": {
+        "nickName": "图书馆",
+        "icon": "https://www.zju.edu.cn/_upload/article/images/c3/98/1fb1d281492eb477a098ef7a2901/6d8d432f-56ac-47eb-b22d-a23b103aed01.png",
+        "type": "page",
+        "earliestDateTime" : "2024-01-01",
+        "baseUrl": "https://libweb.zju.edu.cn",
+        "urlTemplate" : "/39478/list{n}.htm",
+        "siteName" : "libweb",
+        "newsModuleIdClass" : "#wp_news_w6",
+        "totalPagesIdClass" : ".all_pages"
+    },
+    "ckcoffice": {
+        "nickName": "竺可桢学院办公网",
+        "icon": "http://mmbiz.qpic.cn/mmbiz_png/dhlhSic3Vbt0GZ7Cm2hgmovIcnxfkWaIiawuFI6ThyuvxON9mLbJBotDkzB0gibjPn7lovchuHukTsfiaPE9rHh4ug/0?wx_fmt=png",
+        "type": "page",
+        "earliestDateTime" : "2024-01-01",
+        "baseUrl": "http://office.ckc.zju.edu.cn",
+        "urlTemplate" : "/qbtz/list{n}.htm",
+        "siteName" : "ckcoffice",
+        "newsModuleIdClass" : ".news_list",
+        "totalPagesIdClass" : ".all_pages"
+    },
+    "qsxy": {
+        "nickName": "求是学院",
+        "icon": "https://www.zju.edu.cn/_upload/article/images/c3/98/1fb1d281492eb477a098ef7a2901/6d8d432f-56ac-47eb-b22d-a23b103aed01.png",
+        "type": "page",
+        "earliestDateTime" : "2024-01-01",
+        "baseUrl": "http://qsxy.zju.edu.cn",
+        "urlTemplate" : "/30845/list{n}.htm",
+        "siteName" : "qsxy",
+        "newsModuleIdClass" : "#wp_news_w6",
+        "totalPagesIdClass" : ".all_pages"
+    },
+    "zjutw": {
+        "nickName": "浙江大学团委",
+        "icon": "https://zjutw.zju.edu.cn/_upload/tpl/07/25/1829/template1829/images/logo.png",
+        "type": "page",
+        "earliestDateTime" : "2024-01-01",
+        "baseUrl": "http://zjutw.zju.edu.cn",
+        "urlTemplate" : "/tzgg/list{n}.htm",
+        "siteName" : "zjutw",
+        "newsModuleIdClass" : "#wp_news_w999",
+        "totalPagesIdClass" : ".all_pages"
+    },
+    "wxpub_zjdx": {
+        "nickName": "浙江大学",
+        "icon": "http://mmbiz.qpic.cn/mmbiz_png/V1OJoKudbibbvRIIjicgzhibKQUy49Y70Wb5nEjgwg1gzeOQL34ppKANcySNLnERZdmumTI1MKw6fVhcdzpe1ffsg/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zjdx",
+        "pubId" : "MjM5NDgxNTQwNQ=="
+    },
+    "wxpub_zdwxg": {
+        "nickName": "浙大微学工",
+        "icon": "http://mmbiz.qpic.cn/mmbiz_png/WrsialUb3I63FBiaZibQGCVr5bzP6qTic9AbH2WPXhVs1QWwuyrQuCLYwI2K8BNkSibGbfOtCvsic3mzhxuicGz7Dnic2A/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zdwxg",
+        "pubId" : "MzAwNjQyOTI4Mg=="
+    },
+    "wxpub_zjdxtw": {
+        "nickName": "浙江大学团委",
+        "icon": "http://mmbiz.qpic.cn/mmbiz_png/ia6yd6e8b4ic5FqtXB1t4M6TO22VicgGEyrwJ01aZF8MrpJ9llb8ZdHmBMjmGnrxvOZCib2Pragicw0EZnGA9p3eHNA/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zjdxtw",
+        "pubId" : "MzA4NzA2NjkyOA=="
+    },
+    "wxpub_zjdxxsh": {
+        "nickName": "浙江大学学生会",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/1rPK9vt6NCibQHQW39PqDNtZHg6fmRNsRsDb2Zic7L2JeGZ5l0qSa3t8Ny1yw1yNIyyjhcMJfnvvNPdBjaDV4Xfw/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zjdxxsh",
+        "pubId" : "Mzg3MzcwOTM5Ng=="
+    },
+    "wxpub_zdtyyys": {
+        "nickName": "浙大体育与艺术",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/V0NCJaTA89s5adgiaE7gY0jCP1MOq6FHHDg4Dr4rArpu54SsnPhzGicabRPOD1uSvicN0LolhvLC8KbFsUoJJgEkw/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zdtyyys",
+        "pubId" : "MzA3MDk5NDA0NA=="
+    },
+    "wxpub_zdhq": {
+        "nickName": "浙大后勤",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/7rQzicczxmaBKPRRuVuiafZcr1VhyWbJVeicy3NQLnBWUnw67qBSvlT4cb5F7NwRJEWO6zL44ZGOxLGwXLGbD1z6w/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zdhq",
+        "pubId" : "MzI2NTEyNDQ0Mw=="
+    },
+    "wxpub_zdxsgyglfwzx": {
+        "nickName": "浙大学生公寓管理服务中心",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/MAtKh6xSBIFxfTib9jYfn8sUUAYHjVrBQFnIpW4gtOdstpYmqIOagdE20nPnes1GdgvMVM7sogbURgYhXRZVJQg/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zdxsgyglfwzx",
+        "pubId" : "MjM5MzUwNDU4Mg=="
+    },
+    "wxpub_zdzjgurha": {
+        "nickName": "浙大紫金港URHA",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/4UEa1EXNaZVHnB085Xtl88rah5Q4AP2iav4MpsztR7nfmiaQg0AWrUQUd1vp1nQ7ETwdxvj5Sxd4PEHze2eib0BPw/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zdzjgurha",
+        "pubId" : "MzIzMzI3ODcyOQ=="
+    },
+    "wxpub_zjdxyy": {
+        "nickName": "浙江大学医院",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/j7ibIwNE9h1zt0XLLBpDUCoV5OEMqdiagCF6icK0EY1KJVRsQZIQoOOMUwMhTFB20zuMeKc2y0Ma6su5gCmFhnM9A/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zjdxyy",
+        "pubId" : "Mzg2NzEzMDEzNA=="
+    },
+    "wxpub_zjdxsh": {
+        "nickName": "浙大生活",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/qeT1rNhoic2nZUMxGEUUK8g8M59zMmonor30o3k2tiaGsB7w0W0FNWZu3UqH0S6iacMjTsCLCaiavtICbibJYpReEvw/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zjdxsh",
+        "pubId" : "MzI3NDUzNzk3Mw=="
+    },
+    "wxpub_zdqs": {
+        "nickName": "浙大青素",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/3DiaQ8tCxLf0uBMvxrrYE0nGX4FbTiafRvEr1QgZ2YTlrCOIMR6mdHNdwxXko9bVkLOjElRO0F4ps1BMFaCeddTA/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zdqs",
+        "pubId" : "MjM5NjkwNDI4MQ=="
+    },
+    "wxpub_zdqz": {
+        "nickName": "浙大青志",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/Tr0VzdvibWlic70MtVnBCswiceicysJnYxnK0gwfUxxmnQqYNkXgO2roHoyMZCmg9nFg46IxDCVWJhYrpN1AGTULJQ/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zdqz",
+        "pubId" : "MzA5NTA3NDkzOQ=="
+    },
+    "wxpub_zdstzjust": {
+        "nickName": "浙大素拓ZJUST",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/lrVOFj1Djsj2ib3fQqqiaObxayZqtjx4TGo55QOiccYErgSaDRUs2vAbvmtvkGCX5Yztqqbvc50IDjoyqS5DIrHCQ/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zdstzjust",
+        "pubId" : "MzUxOTk3MTM2MQ=="
+    },
+    "wxpub_zdstzdzx": {
+        "nickName": "浙大社团指导中心",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/YeySbbLB84PyHTYIdlIIMraWE3wgAYF2ryoM2LF8ial214oicI2HEzsnd2nic0LBzPcqViawMJPoRO08DS0Rdt0nJA/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zdstzdzx",
+        "pubId" : "MzAwNjgzODU0NQ=="
+    },
+    "wxpub_zjdxqsxy": {
+        "nickName": "浙江大学求是学院",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/BIB2F8Aadu2PUBRbRtfFYHmbBxC5SCf1uR8U45ytxx1FuEz2qua9RGxUEpoq5HnDACe3PNYzqSPAUv7ycG1u2A/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zjdxqsxy",
+        "pubId" : "MzU3MTI2NTE1OA=="
+    },
+    "wxpub_zdzyr": {
+        "nickName": "浙大竺院人",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/ORDAeAqBmLaibiaSqqLaicicl2VxkcBcS95p33YpiaWutjqibqicibXVFQLIygloGUSCIaojgdPXQbrhtepvOzsymEuRmQ/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zdzyr",
+        "pubId" : "MjM5ODE5NzY0Nw=="
+    },
+    "wxpub_zytxh": {
+        "nickName": "竺院团学汇",
+        "icon": "https://mmbiz.qpic.cn/mmbiz_png/oOe9kRn4fagEMswVx4TGD4uia0ASXXn5Jv22c9LCVz7eDxpqYv4oghTibtpDWI8kpdCSbKP57gVtwSxPf4T0TwdA/0?wx_fmt=png",
+        "type": "json",
+        "earliestDateTime" : "2024-01-27",
+        "siteName" : "wxpub_zytxh",
+        "pubId" : "MzkyMzI4MTQwNw=="
+    }
+}
